@@ -92,5 +92,7 @@ h1.temp {
 /* Mobile Styling */
 
 @media (max-width: 1280px) {
-    
+   body {
+    background-image: url('https://source.unsplash.com/1600x900/?portrait');
+  }
 }
